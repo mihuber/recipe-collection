@@ -36,7 +36,7 @@ A clear ***italian-factor*** still remains a mystery. We failed to find a defini
 If one would find the ***italian-factor***, which defines a true-italian recipe, one could make predictions for any unknown recipe based on the ingredients/amounts.
 
 ## acknowledgements
-We thank ozagordi for his continuous support and advice in conducting this study.
+We thank [ozagordi](https://github.com/ozagordi) for his continuous support and advice in conducting this study.
 
 ## author contributions
 [sschmutz](https://github.com/sschmutz), [vkufne](https://github.com/vkufne) and [mihuber](https://github.com/mihuber) collected the data; sschmutz analyzed the data and wrote the manuscript; vkufne and mihuber reviewed and approved the manuscript.
