@@ -7,8 +7,6 @@ We tried to understand the differences between true-italian and pseudo-italian r
 The analysis are based on a [tidy list](recipe-ingredients.csv) of selected recipes, their ingredients and amount.  
 Based on the knowledge of which recipe is true- and which is pseudo-italian we try to find the ***italian-factor***.
 
-![penne](images/penne-alfredo.jpg)
-
 ## analyses
 ### looking at average ingredient-amounts
 The average ingredient-amount of all ingredients which are present in at least one true- and one pseudo-italian recipe were compared:  
