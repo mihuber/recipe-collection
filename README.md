@@ -39,4 +39,4 @@ If one would find the ***italian-factor***, which defines a true-italian recipe,
 We thank ozagordi for his continuous support and advice in conducting this study.
 
 ## author contributions
-sschmutz, vkufne and mihuber (https://github.com/mihuber) collected the data; sschmutz analyzed the data and wrote the manuscript; vkufne and mihuber reviewed and approved the manuscript.
+sschmutz, vkufne and [mihuber](https://github.com/mihuber) collected the data; sschmutz analyzed the data and wrote the manuscript; vkufne and mihuber reviewed and approved the manuscript.
