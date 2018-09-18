@@ -4,16 +4,18 @@
 
 ## aim
 We tried to understand the differences between true-italian and pseudo-italian recipes.  
-The analysis are based on a [tidy list](recipe-ingredients.csv) of selected recipes, their ingredients and amount.  
-Based on the knowledge of which recipe is true- and which is pseudo-italian we try to find the ***italian-factor***.
 
 ## analyses
+Based on expert knowledge of which recipe is true-italian and which is pseudo-italian we tried to find the ***italian-factor***.
+Prototype pseudo-italian recipes included `Spaghetti Napoli`, `Penne Alfredo`, `Meatballs-Pasta` and especially `Pizza Hawaii`.
+The analyses are based on a [tidy list](recipe-ingredients.csv) of selected recipes, their ingredients and amount.  
+
 ### looking at average ingredient-amounts
 The average ingredient-amount of all ingredients which are present in at least one true- and one pseudo-italian recipe were compared:  
 
 ![average_amount](plots/average_amount.png)
 
-No clear ***italian-factor*** apparent.  
+There is no clear ***italian-factor*** apparent.  
 But small differences were visible. Amongst others, Pseudo-italian recipes seem to contain a bit more beef, tomatoes and a bit less spaghetti.
 
 ### PCA
