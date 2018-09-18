@@ -1,10 +1,13 @@
 # The mystery of true-italian and pseudo-italian recipes
 
+![spaghetti](images/spaghetti-napoli.jpg)
+
 ## aim
 We tried to understand the differences between true-italian and pseudo-italian recipes.  
 The analysis are based on a [tidy list](recipe-ingredients.csv) of selected recipes, their ingredients and amount.  
 Based on the knowledge of which recipe is true- and which is pseudo-italian we try to find the ***italian-factor***.
-![spaghetti](images/spaghetti-napoli.jpg)
+
+![penne](images/penne-alfredo.jpg)
 
 ## analyses
 ### looking at average ingredient-amounts
