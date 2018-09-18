@@ -4,7 +4,7 @@
 We tried to understand the differences between true-italian and pseudo-italian recipes.  
 The analysis are based on a [tidy list](recipe-ingredients.csv) of selected recipes, their ingredients and amount.  
 Based on the knowledge of which recipe is true- and which is pseudo-italian we try to find the ***italian-factor***.
-(images/spaghetti-napoli.jpeg)
+![spaghetti](images/spaghetti-napoli.jpg)
 
 ## analyses
 ### looking at average ingredient-amounts
